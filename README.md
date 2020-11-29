@@ -1,6 +1,8 @@
-# Computer Science 215: Design and Analysis of Algorithms
-## 0-1 Knapsack Problem
-## Author: Nikhil Sodemba
+# 0-1 Knapsack Project: User Handbook
+
+## Created by: Nikhil Sodemba
+
+### Refer to this project for educational purposes only
 
 See the
 [0-1 Knapsack](http://www.cs.kzoo.edu/cs215/HW/Knapsack/knapsack.html)
