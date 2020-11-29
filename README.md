@@ -9,6 +9,8 @@ See the
 for the instructions for this assignment, coding tips, links to helpful
 documents, and submission requirements.
 
+### Welcome to the 0-1 Knapsack Program
+
 This program is intended to utilize the three algorithms: dynamic programming, breadth-first, and best-first (depth); to solve the famous 0-1 Knapsack Problem.
 
 In 0-1 Knapsack, items cannot be broken which means the thief should take the item as a whole or should leave it. There are three algorithms which are discussed in detail in the write-up/under the respective file.
